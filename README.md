@@ -1,3 +1,4 @@
+This application is available on playstore you can check the application here https://play.google.com/store/apps/details?id=com.nationrise.flashlight&hl=en_US&gl=US
 # flashlight
 
 A new Flutter project.
